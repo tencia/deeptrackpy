@@ -1,0 +1,7 @@
+DeepTracking/
+data/*
+*.ipynb
+.ipynb_checkpoints/
+*.pyc
+_old/
+
