@@ -1,10 +1,10 @@
 # deeptrackpy
 
 ####Requires:
-numpy
-theano
-lasagne
-h5py
++ numpy
++ theano
++ lasagne
++ h5py
 
 If using original dataset:
 
