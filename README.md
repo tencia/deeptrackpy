@@ -1,5 +1,10 @@
 # deeptrackpy
 
+Implementation of [Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks](http://arxiv.org/abs/1602.00991), Ondruska & Posner 2016, using Python.
+
+Doesn't completely work yet, it reproduces the early parts of training pretty well but runs into numerical instability in later stages.
+
+
 ####Requires:
 + numpy
 + theano
