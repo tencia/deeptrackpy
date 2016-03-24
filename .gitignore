@@ -1,6 +1,7 @@
 DeepTracking/
 data/*
 params/*
+output/*
 *.ipynb
 .ipynb_checkpoints/
 *.pyc
